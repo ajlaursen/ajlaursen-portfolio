@@ -18,3 +18,8 @@
     background-attachment: fixed; 
     background-size: cover;
   }
+
+  .min-w-150 {
+    width: 150px;
+  }
+
