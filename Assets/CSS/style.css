@@ -3,21 +3,21 @@ body{
 }
 
 .bg-img-home {
-    background-image: url('02-Homework/Assets/Images/IMG_0808.jpeg');
+    background-image: url('/Assets/Images/IMG_0808.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
   }
 
   .bg-img-portfolio {
-    background-image: url('02-Homework/Assets/Images/IMG_0813.jpeg');
+    background-image: url('/Assets/Images/IMG_0813.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
   }
 
   .bg-img-contact {
-    background-image: url('02-Homework/Assets/Images/IMG_0846.jpeg');
+    background-image: url('/Assets/Images/IMG_0846.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
