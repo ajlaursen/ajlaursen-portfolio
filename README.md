@@ -10,4 +10,4 @@
 
 * The portfolio page is built so that it is easy to add new items as well as show off the responsive layout. The portfolio page is infinitely expandable to add as many projects as needed.
 
-![portfolio screenshot](02-Homework/Assets/Images/portfolio-screenshot.png)
+![portfolio screenshot](Assets/Images/portfolio-screenshot.png)
