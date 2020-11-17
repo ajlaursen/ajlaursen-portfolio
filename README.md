@@ -2,7 +2,7 @@
 
 * homework 2 UofU bootcamp
 
-* Live Site: https://ajlaursen.github.io/ajlaursen-portfolio/
+* Live Site: https://ajlaursen.codes
 
 * Repo: https://github.com/ajlaursen/ajlaursen-portfolio
 
