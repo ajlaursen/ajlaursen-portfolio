@@ -1,29 +1,28 @@
-body{
+body {
   padding-bottom: 46px;
 }
 
 .bg-img-home {
-    background-image: url('../Images/IMG_0808.jpeg');
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    background-size: cover;
-  }
+  background-image: url("../Images/IMG_0808.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
-  .bg-img-portfolio {
-    background-image: url('../Images/IMG_0813.jpeg');
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    background-size: cover;
-  }
+.bg-img-portfolio {
+  background-image: url("../Images/IMG_0813.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
-  .bg-img-contact {
-    background-image: url('../Images/IMG_0846.jpeg');
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    background-size: cover;
-  }
+.bg-img-contact {
+  background-image: url("../Images/IMG_0846.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
-  .min-w-150 {
-    width: 150px;
-  }
-
+.min-w-150 {
+  width: 150px;
+}
