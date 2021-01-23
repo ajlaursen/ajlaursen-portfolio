@@ -1,5 +1,7 @@
 # ajlaursen portfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0546ee86-1e0a-4b40-834c-d0d28d93d144/deploy-status)](https://app.netlify.com/sites/elated-jones-90a5cb/deploys)
+
 * homework 2 UofU bootcamp
 
 * Live Site: https://ajlaursen.codes
