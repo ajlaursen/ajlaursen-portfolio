@@ -1,23 +1,36 @@
-# ajlaursen portfolio
+
+# First Portfolio
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0546ee86-1e0a-4b40-834c-d0d28d93d144/deploy-status)](https://app.netlify.com/sites/elated-jones-90a5cb/deploys)
 
-* homework 2 UofU bootcamp
+## Table of Contents
+[Description](#description)  
+[Installation](#Installation)  
+[Test](#Testing)  
+[Project Links](#live-Site-and-Repo)  
+[License](#License)  
+[Contributors](#Contributors)  
 
-* Live Site: https://ajlaursen.codes
+## Description
+* This is a professional portfolio built in HTML, CSS, and Bootstrap
 
-* Repo: https://github.com/ajlaursen/ajlaursen-portfolio
+## Installation
+* Go to live link
 
-* These HTML files are the beginnings of a new portfolio page
+## Testing
+* No testing available
 
-* These files contain A home page, portfolio page, and a contact page
+## Live Site and Repo
+* [live Site](ajlaursen.codes)
+* [Repo](https://github.com/ajlaursen/ajlaursen-portfolio)
 
-* The portfolio page is built so that it is easy to add new items as well as show off the responsive layout. The portfolio page is infinitely expandable to add as many projects as needed.
+## License
+* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-* technologies used: HTML, Bootstrap, JS, CSS
+## Contributors
+* Contributor: [Alex Laursen](https://github.com/ajlaursen) Email: [contact@ajlaursen.codes](mailto:contact@ajlaursen.codes)
+
 
 ![portfolio screenshot](Assets/Images/portfolio-screenshot.png)
 
-* Contact: Alex Laursen - Ajlaursen@aol.com
 
-* License: [License](LICENSE)
