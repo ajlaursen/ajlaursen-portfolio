@@ -1,7 +1,7 @@
 
 # First Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0546ee86-1e0a-4b40-834c-d0d28d93d144/deploy-status)](https://app.netlify.com/sites/elated-jones-90a5cb/deploys)
+
 
 ## Table of Contents
 [Description](#description)  
@@ -21,7 +21,7 @@
 * No testing available
 
 ## Live Site and Repo
-* [live Site](ajlaursen.codes)
+* [live Site](https://ajlaursen.github.io/ajlaursen-portfolio/)
 * [Repo](https://github.com/ajlaursen/ajlaursen-portfolio)
 
 ## License
